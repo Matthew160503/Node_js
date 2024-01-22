@@ -1,0 +1,15 @@
+{
+  "name": "shoot-dice",
+  "version": "1.0.0",
+  "description": "Game of dice",
+  "main": "dice.js",
+  "scripts": {
+    "start": "node dice.js"
+  },
+  "keywords": ["dice", "game"],
+  "author": "Matthew Kurylovich",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
